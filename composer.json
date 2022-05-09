@@ -1,5 +1,5 @@
 {
-  "name": "neomerx/cors-illuminate",
+  "name": "jonathanburton/cors-illuminate",
   "description": "CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen",
   "keywords": [
     "Cross-Origin Resource Sharing",
